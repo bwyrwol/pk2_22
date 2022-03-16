@@ -5,7 +5,7 @@
    Deklaracje klasy counter umiescic w pliku naglowkowym *.h, natomiast definicje w pliku implementacyjnym *.cpp.
 
    1. Zadeklarowac pole cnt przechowujace zawartosc licznika.
-   2. Dodac do klasy konstruktor bezargumetowy/z argumentem domyslnym inicjujacy pole cnt oraz metody get/set.
+   2. Dodac do klasy konstruktor bezargumentowy/z argumentem domyslnym inicjujacy pole cnt oraz metody get/set.
    3. Opracowac nastepujace metody (operatory przeladowane)
       - operator przypisania =,
       - konwersji z counter na int oraz counter na double,
