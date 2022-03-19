@@ -1,4 +1,4 @@
-Tematy zajęć laboratoryjnych dla grupy 22
+Tematy zajęć laboratoryjnych dla grupy/sekcji 22
 -----------------------------------------------------------------------------------------
 
-Przykładowe rozwiązanie zadania z laboratorium 1 jest umieszczone w gałęzi bwyrwol-Lab1
+Przykładowe rozwiązanie zadania z laboratorium 1 jest umieszczone w gałęzi bwyrwol-lab1
